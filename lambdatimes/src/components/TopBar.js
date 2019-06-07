@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+
 const TopBarContainer = styled.div`
   width: 100%;
   display: flex;
